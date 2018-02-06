@@ -30,3 +30,7 @@
 6. 远程下载服务在3000端口，还不支持HTTPS
 
 ### 有问题请提Issus
+
+### 图
+![torrent](img/torrent.png)
+![nextcloud](img/nextcloud.png)
