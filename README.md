@@ -14,7 +14,7 @@
 ## 使用方式
 
 1. 安装docker-compose [安装方式](https://docs.docker.com/compose/install/)
-2. git clone 
+2. git clone https://github.com/Hsiny/private-cloud.git
 3. 在docker-compose.yml 文件中配置以下参数
 
     - MYSQL_ROOT_PASSWORD：mysql的root密码
